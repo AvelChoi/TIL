@@ -12,3 +12,6 @@
   * [Coding Tests](https://github.com/AvelChoi/Coding_Tests/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
  3. [Git](https://github.com/AvelChoi/TIL/blob/master/220517%20TIL.md)
  4. NLP
+
+## 참조
+[BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
