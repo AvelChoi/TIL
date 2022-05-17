@@ -7,4 +7,7 @@
  * Git 공부
 
 # 분류
-1. Git을 통한 형상관리
+ 1. Java
+ 2. Python
+ 3. Git
+ 4. NLP
